@@ -18,8 +18,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
 @ComponentScan(basePackages={ "com.curso" })
-@EnableJpaRepositories( basePackages=
-	{"com.curso.modelo.persistencia"} )
+@EnableJpaRepositories( basePackages={"com.curso.modelo.persistencia"} )
 //@EnableTransactionManagement
 public class Configuracion {
 

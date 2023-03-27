@@ -16,9 +16,8 @@ public interface PersonaDao extends JpaRepository<Persona, Integer>{
 	@Query("select p from Persona p where p.direccion=?1")
 	List<Persona> findByMovida(String direccion);
 	
-	/*
     //Distinct
-	List<Persona> findDistinctPeopleByLastnameOrFirstname(String lastname, String firstname);
+	List<Persona> findDistinctPersonaByDireccionOrTelefono(String direccion, String telefono);
 	List<Persona> findPeopleDistinctByLastnameOrFirstname(String lastname, String firstname);
 	
 	//Ignore case
@@ -31,5 +30,5 @@ public interface PersonaDao extends JpaRepository<Persona, Integer>{
 	
 	//Relaciones
 	List<Persona> findByDireccion_CodigoPostal(String codigoPostal);
-	*/
+	
 }
