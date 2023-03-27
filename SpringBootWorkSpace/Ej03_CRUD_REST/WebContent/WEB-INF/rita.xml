@@ -14,7 +14,7 @@
 	<!-- No debemos usar este datasource en una aplicación web. solo de escritorio -->
 	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver"/>
-		<property name="url"             value="jdbc:mysql://localhost:3306/bbdd"/>
+		<property name="url"             value="jdbc:mysql://localhost:3306/cursospringschema"/>
 		<property name="username"        value="root"/>
 		<property name="password"        value="root"/>
 	</bean>

@@ -1,6 +1,7 @@
-E:\JAVA\workspaces\spring\wsSpring_4_2\Ej03_SpringBoot\src\main\java\com\curso\modelo\persistencia\PersonaDaoJPA.java
-E:\JAVA\workspaces\spring\wsSpring_4_2\Ej03_SpringBoot\src\main\java\com\curso\Aplicacion.java
-E:\JAVA\workspaces\spring\wsSpring_4_2\Ej03_SpringBoot\src\main\java\com\curso\modelo\entidad\Persona.java
-E:\JAVA\workspaces\spring\wsSpring_4_2\Ej03_SpringBoot\src\main\java\com\curso\controlador\ControladorWeb.java
-E:\JAVA\workspaces\spring\wsSpring_4_2\Ej03_SpringBoot\src\main\java\com\curso\modelo\negocio\GestorPersonas.java
-E:\JAVA\workspaces\spring\wsSpring_4_2\Ej03_SpringBoot\src\main\java\com\curso\Configuracion.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\Configuracion.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\modelo\entidad\Persona.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\modelo\delegado\DelegadoPersona.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\modelo\negocio\GestorPersonas.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\Aplicacion.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\modelo\persistencia\PersonaDaoJPA.java
+C:\Users\ismat\OneDrive\Escritorio\Cursos\Curso Spring y Spring Boot\SpringBootWorkSpace\Ej03_SpringBoot\src\main\java\com\curso\controlador\ControladorWeb.java

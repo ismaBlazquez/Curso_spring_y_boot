@@ -38,14 +38,14 @@ public class Aplicacion implements CommandLineRunner {
 	public void run(String... arg0) throws Exception {
 		System.out.println("====================================");
 		System.out.println("App inicializada");
-		
+		/*
 		delegadoPersona.insertar(new Persona(null,"N1","D","T"));
 		delegadoPersona.insertar(new Persona(null,"N2","D","T"));
 		delegadoPersona.insertar(new Persona(null,"N3","D","T"));
 		delegadoPersona.insertar(new Persona(null,"N4","D","T"));
 		delegadoPersona.insertar(new Persona(null,"N5","D","T"));
 		
-
+		*/
 		List<Persona> personas = delegadoPersona.listarTodas();
 		for(Persona p: personas){
 			System.out.println(p);

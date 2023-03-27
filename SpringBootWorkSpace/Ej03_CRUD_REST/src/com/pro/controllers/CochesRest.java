@@ -47,4 +47,10 @@ public class CochesRest {
 		c.setIdCoche(id);
 		getCochesDelegate().borrarCoche(c);;
 	}
+	
+	@RequestMapping(value="/get/{id}", method=RequestMethod.GET)
+	@ResponseBody
+	public Coche getById(@PathVariable("id") int id){
+		return getCochesDelegate().buscarCoche(id);
+	}
 }

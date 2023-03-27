@@ -1,0 +1,7 @@
+com\curso\modelo\delegado\DelegadoPersona.class
+com\curso\modelo\negocio\GestorPersonas.class
+com\curso\modelo\entidad\Persona.class
+com\curso\modelo\persistencia\PersonaDaoJPA.class
+com\curso\Configuracion.class
+com\curso\Aplicacion.class
+com\curso\controlador\ControladorWeb.class
